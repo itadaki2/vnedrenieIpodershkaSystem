@@ -1,0 +1,3 @@
+Землянский В. ИС223
+2 Условные - конструкции
+https://colab.research.google.com/drive/120srYM1sIXquaffh9ovdGGOg9ZX_tD5G?usp=sharing
